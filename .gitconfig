@@ -1,0 +1,9 @@
+[user]
+	name = Tobias Bobb
+	email = 74571463+TobiasB4@users.noreply.github.com 
+[init]
+	defaultBranch = main
+[core]
+	editor = nvim
+[fetch]
+	prune = true
